@@ -1,4 +1,4 @@
-" BS
+" backspace
 set backspace=indent,eol,start
 
 " DELESC
