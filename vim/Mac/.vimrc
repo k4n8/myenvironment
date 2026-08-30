@@ -1,7 +1,7 @@
 " BS
 set backspace=indent,eol,start
 
-" DELESC
+" delete
 fixdel
 
 " color
